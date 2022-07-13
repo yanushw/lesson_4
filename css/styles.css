@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  text-indent: 50px;
+}
+
+i {
+  color: green;
+}
